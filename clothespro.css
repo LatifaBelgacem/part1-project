@@ -1,0 +1,45 @@
+
+
+
+.header{
+display:flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.choice{
+display:flex;
+flex-direction: row;
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: larger;
+    font-size: 78px;
+    margin-left: 355px;
+    margin-top:8px;
+}
+.title{
+    display:flex;
+    flex-direction: column;
+
+}
+#women{
+    margin-top: 0px;
+    width: 276px;
+    margin-left: 731px;
+}
+.footer{
+    display:flex;
+    background-color: skyblue;
+    text-align: center;
+    align-content: center;
+    
+
+}
+#tel{
+    margin: 10px 603px
+}

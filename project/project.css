@@ -1,0 +1,12 @@
+.header{
+display: flex;
+flex-direction:row;
+justify-items: space-between;
+background-color: whitesmoke;
+}
+.title{
+    width: 50px;
+    display: flex;
+    margin: 0% 50%;
+    text-align: center;
+}
